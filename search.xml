@@ -11,6 +11,26 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo+Github搭建个人博客</title>
+    <url>/2022/02/09/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<center style="font-size:larger;font-weight:bold">GitHub+Hexo 搭建个人网站详细教程</center>
+
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>&emsp; 利用Hexo快速搭建一个网站，并且将其部署在github上面，使得可以通过域名访问你自己的个人网站，实现成为一个站长的梦想！就这样快速拥有自己的博客网站，写文章记录生活，享受这种从0到1的过程!</p>
+<span id="more"></span>
+<h1 id="搭建步骤"><a href="#搭建步骤" class="headerlink" title="搭建步骤"></a>搭建步骤</h1><h2 id="Github创建个人仓库"><a href="#Github创建个人仓库" class="headerlink" title="Github创建个人仓库"></a>Github创建个人仓库</h2><p>&emsp; 如果无Github账号，使用你的邮箱在<a href="https://github.com/">Github官网</a>注册帐号，不会的同学请自行百度“Github如何注册账号”。<br>&emsp; 注册完成或者已有账号做如下操作：</p>
+<ol>
+<li>点击GitHub中的New repository创建新仓库<br><img src="https://tva4.sinaimg.cn/large/006LDSTgly1gz9w2lq6lyj31hc0o2ara.jpg" alt="Github_new"></li>
+<li>点击</li>
+</ol>
+]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/02/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -28,29 +48,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Hexo+Github搭建个人博客</title>
-    <url>/2022/02/09/Hexo-Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<center style="font-size:larger;font-weight:bold">GitHub+Hexo 搭建个人网站详细教程</center>
-
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>&emsp; 利用Hexo快速搭建一个网站，并且将其部署在github上面，使得可以通过域名访问你自己的个人网站，实现成为一个站长的梦想！就这样快速拥有自己的博客网站，写文章记录生活，享受这种从0到1的过程!</p>
-<span id="more"></span>
-<h1 id="搭建步骤"><a href="#搭建步骤" class="headerlink" title="搭建步骤"></a>搭建步骤</h1><h2 id="Github创建个人仓库"><a href="#Github创建个人仓库" class="headerlink" title="Github创建个人仓库"></a>Github创建个人仓库</h2><pre><code>如果无Github账号，使用你的邮箱在[Github官网](https://github.com/)注册帐号，
-不会的同学请自行百度“Github如何注册账号”
-</code></pre>
-<h2 id="Github创建个人仓库-1"><a href="#Github创建个人仓库-1" class="headerlink" title="Github创建个人仓库"></a>Github创建个人仓库</h2><pre><code>如果无Github账号，使用你的邮箱在[Github官网](https://github.com/)注册帐号，
-不会的同学请自行百度“Github如何注册账号”
-</code></pre>
-<h2 id="Github创建个人仓库-2"><a href="#Github创建个人仓库-2" class="headerlink" title="Github创建个人仓库"></a>Github创建个人仓库</h2><pre><code>如果无Github账号，使用你的邮箱在[Github官网](https://github.com/)注册帐号，
-不会的同学请自行百度“Github如何注册账号”
-</code></pre>
-]]></content>
-      <categories>
-        <category>博客搭建</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
   </entry>
 </search>
