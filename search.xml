@@ -48,7 +48,11 @@
 </ul>
 <ol>
 <li>在线下载。在blog目录中（就是命令行的位置处于blog目录）打开命令行输入：<br><code>git clone https://github.com/theme-next/hexo-theme-next</code><br>记住地址可能会变，但是你看这个人的仓库就知道或许移到哪了。</li>
-<li>离线下载。 选择Download Zip。下载后放到themes文件夹下，解压后命名为next<br><img src="https://tva2.sinaimg.cn/large/006LDSTgly1gz9yjfze1sj31hc0o217y.jpg" alt="1644590953(1)"><br>说明：如果Github下载慢，对于在线下载，有VPN条件的同学试试 让终端走代理 export xxx；对于离线下载，可以先将这个仓库拉到自己的<a href="https://gitee.com/">码云</a>仓库，不会的就可以去自行百度了，毕竟方法都教给你了，路总是要亲自走的~:tw-2611:<br>之后，打开<strong>站点</strong>的_config.yml配置文件，修改主题为next：<br><img src="https://tvax2.sinaimg.cn/large/006LDSTgly1gz9yrko790j30pu0gcn3r.jpg" alt="1644591425(1)"><br>接下来，打开<strong>主题</strong>的_config.yml配置文件，找到Scheme Settings<br><img src="https://tvax1.sinaimg.cn/large/006LDSTgly1gz9yu18l2nj30q70g8435.jpg" alt="1644591557(1)"><br>next主题有三个样式，我用的是Pisces，你们可以自己试试看，选择你自己喜欢的样式（只需要把行首的#去除，#是注释），选择好后，再次部署网站，hexo g、hexo d，查看效果。选择其他主题，按照上述过程即可实现。<br>注意：每次部署后，需要等几分钟才会刷新页面，毕竟是在Github上面嘛。所以想要即时看到效果的话建议是hexo s，在本地输入<a href="http://localhost:4000/">localhost:4000</a>查看。</li>
+<li>离线下载。 选择Download Zip。下载后放到themes文件夹下，解压后命名为next<br><img src="https://tva2.sinaimg.cn/large/006LDSTgly1gz9yjfze1sj31hc0o217y.jpg" alt="1644590953(1)"><br>说明：如果Github下载慢，对于在线下载，有VPN条件的同学试试 让终端走代理 export xxx；对于离线下载，可以先将这个仓库拉到自己的<a href="https://gitee.com/">码云</a>仓库，不会的就可以去自行百度了，毕竟方法都教给你了，路总是要亲自走的~:tw-2611:<br>之后，打开<strong>站点</strong>的_config.yml配置文件，修改主题为next：<br><img src="https://tvax2.sinaimg.cn/large/006LDSTgly1gz9yrko790j30pu0gcn3r.jpg" alt="1644591425(1)"><br>接下来，打开<strong>主题</strong>的_config.yml配置文件，找到Scheme Settings<br><img src="https://tvax1.sinaimg.cn/large/006LDSTgly1gz9yu18l2nj30q70g8435.jpg" alt="1644591557(1)"><br>next主题有三个样式，我用的是Pisces，你们可以自己试试看，选择你自己喜欢的样式（只需要把行首的#去除，#是注释），选择好后，再次部署网站，hexo g、hexo d，查看效果。选择其他主题，按照上述过程即可实现。<br>注意：每次部署后，需要等几分钟才会刷新页面，毕竟是在Github上面嘛。所以想要即时看到效果的话建议是hexo s，在本地输入<a href="http://localhost:4000/">localhost:4000</a>查看。<h2 id="相关参考学习链接"><a href="#相关参考学习链接" class="headerlink" title="相关参考学习链接"></a>相关参考学习链接</h2></li>
+<li><a href="https://hexo.io/zh-cn/docs/">Hexo学习</a></li>
+<li><a href="http://theme-next.iissnan.com/theme-settings.html">Next主题配置</a></li>
+<li><a href="https://hexo-next.readthedocs.io/zh_CN/latest/">强烈推荐：Hexo-Next联合配置</a></li>
+<li><a href="https://blog.csdn.net/qq_35479468/article/details/107454287">Hexo+next主题自定义友情链接页面</a></li>
 </ol>
 ]]></content>
       <categories>
